@@ -1731,13 +1731,14 @@ static void APP_CoapEquipo4Cb
 	if(gCoapConfirmable_c == pSession->msgType)
 	{
 		sprintf(shellString, "CON instruction received from %s\n\r", addrStr);
-		shell_write("\r");
+		shell_write("**************************************************************\n\r");
 		shell_printf("%s", shellString);
-		shell_refresh();
+		
 
 		if(gCoapGET_c == pSession->code)
 		{
-			COAP_Send(pSession, gCoapMsgTypeAckSuccessChanged_c, pEquipoString, ackPloadSize);
+    		COAP_Send(pSession, gCoapMsgTypeNonPost_c, pEquipoString, ackPloadSize);
+            shell_printf("CoAP Respose Sent, payload: %s \n\r", pEquipoString);
 		}
 		else
 		{

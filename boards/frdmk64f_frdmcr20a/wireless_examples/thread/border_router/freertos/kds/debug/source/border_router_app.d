@@ -1,6 +1,6 @@
 source/border_router_app.o: \
- C:/Temp/fk64f_KDS_lab_br/middleware/wireless/nwk_ip_1.2.1/examples/border_router/src/border_router_app.c \
- c:\temp\fk64f_kds_lab_br\middleware\wireless\nwk_ip_1.2.1\examples\border_router\config\config.h \
+ C:/Users/ernesto/workspace.kds/fk64f_KDS_lab_br/middleware/wireless/nwk_ip_1.2.1/examples/border_router/src/border_router_app.c \
+ ../../../../../../../../middleware/wireless/nwk_ip_1.2.1/examples/border_router/config/config.h \
  ../../../../../../../../middleware/wireless/nwk_ip_1.2.1/examples/common/app_config.h \
  ../../../../../../../../middleware/wireless/nwk_ip_1.2.1/examples/common/app_stack_config.h \
  ../../../../../../../../middleware/wireless/nwk_ip_1.2.1/examples/common/app_framework_config.h \
@@ -26,7 +26,7 @@ source/border_router_app.o: \
  ../../../../../../../../middleware/wireless/framework_5.0.5/OSAbstraction/Interface/fsl_os_abstraction_config.h \
  ../../../../../../../../middleware/wireless/framework_5.0.5/TimersManager/Interface/TimersManager.h \
  ../../../../../../../../middleware/wireless/nwk_ip_1.2.1/core/interface/modules/event_manager.h \
- C:/Temp/fk64f_KDS_lab_br/middleware/wireless/nwk_ip_1.2.1/examples/border_router/src/border_router_app.h \
+ C:/Users/ernesto/workspace.kds/fk64f_KDS_lab_br/middleware/wireless/nwk_ip_1.2.1/examples/border_router/src/border_router_app.h \
  ../../../../../../../../middleware/wireless/nwk_ip_1.2.1/examples/common/app_border_router.h \
  ../../../../../../../../middleware/wireless/nwk_ip_1.2.1/examples/common/app_stack_config.h \
  ../../../../../../../../middleware/wireless/nwk_ip_1.2.1/core/interface/thread/thread_utils.h \
@@ -91,7 +91,7 @@ source/border_router_app.o: \
  ../../../../../../../../middleware/wireless/nwk_ip_1.2.1/core/interface/thread/thread_attributes.h \
  ../../../../../../../../middleware/wireless/nwk_ip_1.2.1/examples/common/app_accel_sensor.h
 
-c:\temp\fk64f_kds_lab_br\middleware\wireless\nwk_ip_1.2.1\examples\border_router\config\config.h:
+../../../../../../../../middleware/wireless/nwk_ip_1.2.1/examples/border_router/config/config.h:
 
 ../../../../../../../../middleware/wireless/nwk_ip_1.2.1/examples/common/app_config.h:
 
@@ -143,7 +143,7 @@ c:\temp\fk64f_kds_lab_br\middleware\wireless\nwk_ip_1.2.1\examples\border_router
 
 ../../../../../../../../middleware/wireless/nwk_ip_1.2.1/core/interface/modules/event_manager.h:
 
-C:/Temp/fk64f_KDS_lab_br/middleware/wireless/nwk_ip_1.2.1/examples/border_router/src/border_router_app.h:
+C:/Users/ernesto/workspace.kds/fk64f_KDS_lab_br/middleware/wireless/nwk_ip_1.2.1/examples/border_router/src/border_router_app.h:
 
 ../../../../../../../../middleware/wireless/nwk_ip_1.2.1/examples/common/app_border_router.h:
 
